@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <name>WebChat</name>
+    <queueMembers>
+        <users>
+            <user>test-u3uelewrgtjm@example.com</user>
+        </users>
+    </queueMembers>
+    <queueRoutingConfig>WebChat</queueRoutingConfig>
+    <queueSobject>
+        <sobjectType>LiveChatTranscript</sobjectType>
+    </queueSobject>
+</Queue>

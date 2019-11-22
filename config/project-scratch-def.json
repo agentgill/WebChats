@@ -1,0 +1,10 @@
+{
+  "orgName": "Ace!",
+  "edition": "Developer",
+  "features": ["ServiceCloud", "ServiceUser"],
+  "settings": {
+    "omniChannelSettings": {
+      "enableOmniChannel": true
+    }
+  }
+}
